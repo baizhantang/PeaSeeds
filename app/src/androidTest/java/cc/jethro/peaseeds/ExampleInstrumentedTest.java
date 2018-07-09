@@ -1,4 +1,4 @@
-package com.example.litepaltest;
+package cc.jethro.peaseeds;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.litepaltest", appContext.getPackageName());
+        assertEquals("cc.jethro.peaseeds", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.example.litepaltest;
+package cc.jethro.peaseeds;
 
 import org.junit.Test;
 

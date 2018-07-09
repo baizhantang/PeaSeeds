@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">LitePalTest</string>
+    <string name="app_name">豌豆种子</string>
+    <string name="hello">Hello my friend</string>
+    <string name="hello_2">欢迎使用豌豆种子:)</string>
+    <string name="message">\n亲的任务就是，守护种子: \n\n如果亲今天守护成功了，无需做任何操作，我会在一天后给亲一颗豌豆\n\n如果亲守护失败了，那么请点击下面的按钮，我会清空你所获得的豌豆，开始下一轮的守护\n\n我不会督促亲，只会在分析页面给出数据，亲自己看着办</string>
+    <string name="button_text">守护失败了，重新来过</string>
+    <string name="maxpea_number">历史最多豌豆记录</string>
+    <string name="allPea_number">一共获得了多少豌豆</string>
+    <string name="failed_number">守护失败的次数</string>
+    <string name="now_pea_number">当前豌豆记录</string>
+    <string name="last_time_pea_number">上次豌豆记录</string>
+    <string name="loser">再接再励奥~loser</string>
+    <string name="tab_analysis">分析</string>
+    <string name="tab_recording">记录</string>
 </resources>
